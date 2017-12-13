@@ -8,4 +8,8 @@ class President {
     this.homeState;
   }
 
+  veto() {
+    return "NO!"
+  }
+
 }
