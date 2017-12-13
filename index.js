@@ -9,11 +9,19 @@ class President {
   }
 
   veto() {
-    return "NO!"
+    return ("NO!");
   }
 
   passBill() {
-    return "You can do that!"
+    return ("You can do that!");
+  }
+
+  doCharity() {
+    return ("I like to help people.");
+  }
+
+  conductPressInterview() {
+    return ("I am proud to be an American.");
   }
 
 }
