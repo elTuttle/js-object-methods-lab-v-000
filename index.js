@@ -12,4 +12,8 @@ class President {
     return "NO!"
   }
 
+  passBill() {
+    return "You can do that!"
+  }
+
 }
